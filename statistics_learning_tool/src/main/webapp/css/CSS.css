@@ -1,0 +1,44 @@
+body{
+	height: auto
+}
+
+p{
+	color:black;	
+}
+
+.profileBtn{
+    border: solid #c5b39b 1px;
+    background-color: #D8C3A5   ;
+    padding: 30px ;
+    margin:20px ;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    
+}
+
+.profileBtn a{
+    background-color: transparent;
+    font-size: 30px;
+    
+}
+
+
+.postBoxes{
+    height : 200px;
+    overflow: auto;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+
+.posterPhoto{
+    height: 200px;
+}
+
+
+.row{
+	margin:10px;
+}
